@@ -3,7 +3,7 @@
 An interactive web-based training module built as part of the **CodeAlpha Cyber Security Internship**. This project helps users learn to identify phishing attempts, recognize common social engineering tactics, and test their knowledge through a quiz.
 
 ## Live Demo
-
+https://akshmurali07.github.io/CodeAlpha_PhishingAwareness/
 
 ##  Features
 
